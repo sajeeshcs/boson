@@ -34,3 +34,5 @@ Future work:
   this would simply be a POST with a JSON payload containing a simple
   dictionary; the dictionary keys would be 'reservation' (reservation
   UUID) and 'disposition' (either 'rollback' or 'commit').)
+
+* Testing github for automatic synchroization of files if main repository is updated
